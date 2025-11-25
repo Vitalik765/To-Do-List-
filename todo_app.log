@@ -87,3 +87,281 @@
 2025-11-12 21:33:40,563 - __main__ - INFO - Добавлена новая задача: 125 (пользователь: 1234)
 2025-11-12 21:33:40,563 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 21:33:40] "[32mPOST /add_todo HTTP/1.1[0m" 302 -
 2025-11-12 21:33:40,567 - werkzeug - INFO - 127.0.0.1 - - [12/Nov/2025 21:33:40] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 22:56:10,798 - __main__ - INFO - Добавлена колонка 'role' в таблицу 'user'
+2025-11-24 22:56:10,801 - __main__ - INFO - Добавлена колонка 'points' в таблицу 'user'
+2025-11-24 22:56:10,907 - __main__ - INFO - Создан администратор: admin / admin123
+2025-11-24 22:56:10,907 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:56:10,910 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:56:10,976 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 22:56:10,976 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 22:56:10,982 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 22:56:11,387 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:56:11,390 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:56:11,394 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 22:56:11,396 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 22:56:25,214 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:56:25,218 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:56:25,229 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 22:56:25,229 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 22:56:25,230 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 22:56:25,623 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:56:25,625 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:56:25,629 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 22:56:25,630 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 22:56:41,221 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:56:41] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 22:56:41,242 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:56:41] "GET /login HTTP/1.1" 200 -
+2025-11-24 22:56:41,313 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:56:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-24 22:56:43,234 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:56:43] "GET /register HTTP/1.1" 200 -
+2025-11-24 22:56:57,984 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:56:57] "POST /register HTTP/1.1" 200 -
+2025-11-24 22:57:01,013 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:57:01] "GET /login HTTP/1.1" 200 -
+2025-11-24 22:57:03,309 - __main__ - WARNING - Неудачная попытка входа: asdasdas
+2025-11-24 22:57:03,310 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:57:03] "POST /login HTTP/1.1" 200 -
+2025-11-24 22:57:05,545 - __main__ - WARNING - Неудачная попытка входа: 123
+2025-11-24 22:57:05,546 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:57:05] "POST /login HTTP/1.1" 200 -
+2025-11-24 22:57:07,133 - __main__ - WARNING - Неудачная попытка входа: asdasdas
+2025-11-24 22:57:07,134 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:57:07] "POST /login HTTP/1.1" 200 -
+2025-11-24 22:58:11,333 - __main__ - INFO - Создан администратор: admin / admin123
+2025-11-24 22:58:11,333 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:58:11,336 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:58:11,345 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 22:58:11,346 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 22:58:11,346 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 22:58:11,764 - __main__ - INFO - База данных инициализирована
+2025-11-24 22:58:11,766 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 22:58:11,769 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 22:58:11,771 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 22:58:14,355 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:14] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 22:58:14,369 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:14] "GET /login HTTP/1.1" 200 -
+2025-11-24 22:58:17,615 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:17] "GET /register HTTP/1.1" 200 -
+2025-11-24 22:58:23,143 - __main__ - INFO - Новый пользователь зарегистрирован: 123 (123@gmail.com)
+2025-11-24 22:58:23,144 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:23] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-24 22:58:23,147 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:23] "GET /login HTTP/1.1" 200 -
+2025-11-24 22:58:26,171 - __main__ - INFO - Пользователь вошел в систему: 123 (роль: user)
+2025-11-24 22:58:26,171 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 22:58:26,195 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:26] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 22:58:31,399 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:31] "GET /reports HTTP/1.1" 200 -
+2025-11-24 22:58:34,474 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:34] "GET /reports HTTP/1.1" 200 -
+2025-11-24 22:58:34,966 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:34] "GET /user/2 HTTP/1.1" 200 -
+2025-11-24 22:58:52,535 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:58:52] "GET /user/2 HTTP/1.1" 200 -
+2025-11-24 22:59:03,709 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:03] "GET /reports HTTP/1.1" 200 -
+2025-11-24 22:59:15,290 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:15] "GET /reports?period=month HTTP/1.1" 200 -
+2025-11-24 22:59:16,160 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:16] "GET /reports?period=all HTTP/1.1" 200 -
+2025-11-24 22:59:17,470 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:17] "GET /reports?period=week HTTP/1.1" 200 -
+2025-11-24 22:59:25,248 - __main__ - INFO - Пользователь вышел из системы: 123
+2025-11-24 22:59:25,248 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 22:59:25,252 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:25] "GET /login HTTP/1.1" 200 -
+2025-11-24 22:59:29,588 - __main__ - INFO - Пользователь вошел в систему: 123 (роль: user)
+2025-11-24 22:59:29,589 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:29] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 22:59:29,594 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:29] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 22:59:31,083 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:31] "GET /create_task HTTP/1.1" 200 -
+2025-11-24 22:59:46,421 - __main__ - INFO - Создана задача: 124124124 (пользователь: 123)
+2025-11-24 22:59:46,421 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:46] "[32mPOST /create_task HTTP/1.1[0m" 302 -
+2025-11-24 22:59:46,428 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:46] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 22:59:57,518 - __main__ - INFO - Пользователь вышел из системы: 123
+2025-11-24 22:59:57,518 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 22:59:57,522 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 22:59:57] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:00:03,757 - __main__ - WARNING - Неудачная попытка входа: admin
+2025-11-24 23:00:03,758 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:00:03] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:01:08,392 - __main__ - WARNING - Неудачная попытка входа: admin
+2025-11-24 23:01:08,393 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:01:08] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:02:55,427 - __main__ - WARNING - Неудачная попытка входа: 123 
+2025-11-24 23:02:55,428 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:02:55] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:03:15,901 - __main__ - INFO - Создан администратор: admin / admin123
+2025-11-24 23:03:15,901 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:03:15,905 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:03:15,914 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 23:03:15,914 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 23:03:15,915 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:03:16,320 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:03:16,324 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:03:16,328 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:03:16,330 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:03:18,549 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:03:18] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 23:03:18,569 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:03:18] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:03:24,784 - __main__ - WARNING - Неудачная попытка входа: admin
+2025-11-24 23:03:24,785 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:03:24] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:03:27,996 - __main__ - WARNING - Неудачная попытка входа: 123
+2025-11-24 23:03:27,997 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:03:27] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:03:28,540 - __main__ - WARNING - Неудачная попытка входа: asdasdas
+2025-11-24 23:03:28,541 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:03:28] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:04:41,730 - __main__ - WARNING - Неудачная попытка входа: admin
+2025-11-24 23:04:41,731 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:04:41] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:04:56,725 - __main__ - INFO - Пользователь вошел в систему: admin (роль: admin)
+2025-11-24 23:04:56,726 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:04:56] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 23:04:56,749 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:04:56] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:05:01,063 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:05:01] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:09:42,876 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:09:42,977 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:09:43,518 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:09:43,521 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:09:43,526 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:09:43,528 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:09:47,614 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:09:47,728 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:09:48,217 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:09:48,221 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:09:48,226 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:09:48,229 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:09:54,341 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:09:54,438 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:09:54,901 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:09:54,905 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:09:54,909 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:09:54,911 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:15,206 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:15,308 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:15,808 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:15,811 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:15,816 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:15,819 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:17,872 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:17,957 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:18,444 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:18,447 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:18,452 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:18,453 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:28,615 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:28,675 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:29,164 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:29,166 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:29,171 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:29,174 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:35,275 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:35,319 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:35,720 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:35,723 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:35,727 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:35,730 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:45,876 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:45,958 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:46,386 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:46,389 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:46,394 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:46,396 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:10:56,540 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:10:56,600 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:10:57,115 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:10:57,119 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:10:57,124 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:10:57,126 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:11:07,281 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:11:07,342 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:11:07,792 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:11:07,795 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:11:07,799 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:11:07,802 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:12:36,844 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:12:36,892 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:12:37,308 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:12:37,311 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:12:37,315 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:12:37,317 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:12:54,529 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:12:54,571 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:12:54,987 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:12:54,990 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:12:54,994 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:12:54,996 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:12:59,296 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:12:59,300 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:12:59,310 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 23:12:59,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 23:12:59,310 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:12:59,692 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:12:59,694 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:12:59,698 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:12:59,700 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:13:01,439 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:01] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 23:13:01,483 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:01] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:13:03,775 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:03] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:13:06,099 - __main__ - INFO - Пользователь вышел из системы: admin
+2025-11-24 23:13:06,100 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 23:13:06,105 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:06] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:13:07,290 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:07] "GET /register HTTP/1.1" 200 -
+2025-11-24 23:13:13,186 - __main__ - INFO - Новый пользователь зарегистрирован: 123 (123@gmail.com)
+2025-11-24 23:13:13,187 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:13] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-24 23:13:13,190 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:13] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:13:16,565 - __main__ - INFO - Пользователь вошел в систему: 123 (роль: user)
+2025-11-24 23:13:16,566 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 23:13:16,572 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:16] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:13:19,049 - __main__ - INFO - Пользователь вышел из системы: 123
+2025-11-24 23:13:19,049 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 23:13:19,053 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:19] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:13:25,307 - __main__ - WARNING - Неудачная попытка входа: admin
+2025-11-24 23:13:25,308 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:25] "POST /login HTTP/1.1" 200 -
+2025-11-24 23:13:33,833 - __main__ - INFO - Пользователь вошел в систему: admin (роль: admin)
+2025-11-24 23:13:33,834 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 23:13:33,839 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:33] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:13:36,314 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:36] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:13:38,189 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:38] "[32mPOST /change_user_role/2 HTTP/1.1[0m" 302 -
+2025-11-24 23:13:38,195 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:38] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:13:39,191 - __main__ - INFO - Пользователь вышел из системы: admin
+2025-11-24 23:13:39,192 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:39] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 23:13:39,196 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:39] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:13:41,799 - __main__ - INFO - Пользователь вошел в систему: 123 (роль: deputy_admin)
+2025-11-24 23:13:41,800 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-24 23:13:41,806 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:41] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:13:43,524 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:43] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:13:45,165 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:45] "GET /user/2 HTTP/1.1" 200 -
+2025-11-24 23:13:46,075 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:46] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:13:47,104 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:13:47] "GET /user/1 HTTP/1.1" 200 -
+2025-11-24 23:21:17,794 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:21:17,797 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:21:17,807 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-24 23:21:17,807 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-11-24 23:21:17,808 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:21:18,224 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:21:18,228 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:21:18,232 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:21:18,234 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:21:19,362 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:21:19] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 23:21:19,395 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:21:19] "GET /dashboard HTTP/1.1" 200 -
+2025-11-24 23:21:42,689 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:21:42] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:22:52,396 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:22:52,491 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:22:53,115 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:22:53,118 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:22:53,123 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:22:53,125 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:23:02,310 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:23:02,415 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:23:02,946 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:23:02,950 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:23:02,956 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:23:02,958 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:24:57,380 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:24:57,448 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:24:58,015 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:24:58,017 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:24:58,022 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:24:58,024 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:25:01,810 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:25:01] "GET /users HTTP/1.1" 200 -
+2025-11-24 23:25:03,204 - __main__ - INFO - Пользователь вышел из системы: 123
+2025-11-24 23:25:03,205 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:25:03] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-11-24 23:25:03,210 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:25:03] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:25:10,216 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:25:10] "[32mGET / HTTP/1.1[0m" 302 -
+2025-11-24 23:25:10,220 - werkzeug - INFO - 127.0.0.1 - - [24/Nov/2025 23:25:10] "GET /login HTTP/1.1" 200 -
+2025-11-24 23:25:44,632 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:25:44,688 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:25:45,136 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:25:45,138 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:25:45,143 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:25:45,145 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:25:48,204 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:25:48,255 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:25:48,670 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:25:48,672 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:25:48,678 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:25:48,679 - werkzeug - INFO -  * Debugger PIN: 188-335-438
+2025-11-24 23:25:49,719 - werkzeug - INFO -  * Detected change in 'c:\\To-Do List (Список дел)\\app.py', reloading
+2025-11-24 23:25:49,789 - werkzeug - INFO -  * Restarting with stat
+2025-11-24 23:25:50,248 - __main__ - INFO - База данных инициализирована
+2025-11-24 23:25:50,251 - __main__ - INFO - Запуск Flask приложения
+2025-11-24 23:25:50,255 - werkzeug - WARNING -  * Debugger is active!
+2025-11-24 23:25:50,257 - werkzeug - INFO -  * Debugger PIN: 188-335-438
